@@ -5,7 +5,7 @@ import styles from './Post.module.css';
 
 
 
-// const Post = ({ author, content, image, date }) => {
+
    const Post = (props) => {
       const { author, content, image, date } = props;
    return (

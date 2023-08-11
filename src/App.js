@@ -9,7 +9,7 @@ const ANAKIN_IMAGE =
 const RAY_IMAGE =
   'https://specials-images.forbesimg.com/imageserve/5e63b3c8e1e617000759130e/960x0.jpg?fit=scale';
 
-// import logoImage from './img/logo.jpeg';
+
 function App() {
   return (
     <div className="App">
